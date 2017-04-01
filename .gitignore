@@ -1,5 +1,6 @@
 ##ignore private properties
 config/private.json
+inventory.txt
 
 # Logs
 logs

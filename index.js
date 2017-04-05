@@ -4,40 +4,26 @@
 const chalk = require('chalk'),
     clear = require('clear'),
     figlet = require('figlet'),
-    config = require('./config/private.json'),
     loc = require('./lib/loc'),
-    auth = require('./lib/auth'),
+    cred = require('./lib/cred'),
     inv = require('./lib/inv'),
     write = require('./lib/write');
 
-clear();
-console.log(
-    chalk.yellow(
-        figlet.textSync('Pokétriever', {
-            horizontalLayout: 'full'
-        })
-    )
-);
+welcome();
+loc.checkLocation();
 
-loc.checkLocation(function (answers) {
-    if (!answers.home) {
-        console.log('you are not home');
-        process.exit();
-    }
-});
+cred.getUserCredentials()
+    .then(inv.doTheThing)
+    .then(write.writeInventory)
+    .catch(console.error);
 
-let params;
-let fullInv;
-
-if (config.username && config.password && config.hashkey) {
-    params = config;
-} else {
-    auth.getGoogleCredentials(function (answers) {
-        params = answers;
-    });
+function welcome() {
+    clear();
+    console.log(
+        chalk.yellow(
+            figlet.textSync('Pokétriever', {
+                horizontalLayout: 'full'
+            })
+        )
+    );
 }
-
-inv.doTheThing(params, function (inventory) {
-    fullInv = JSON.stringify(inventory);
-    write.writeFileToDisk('inventory.txt', fullInv);
-});

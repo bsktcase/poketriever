@@ -1,29 +1,10 @@
 #! /usr/bin/env node
 
 'use strict';
-const chalk = require('chalk'),
-    clear = require('clear'),
-    figlet = require('figlet'),
-    loc = require('./lib/loc'),
-    cred = require('./lib/cred'),
-    inv = require('./lib/inv'),
-    write = require('./lib/write');
+const program = require('commander');
 
-welcome();
-loc.checkLocation();
-
-cred.getUserCredentials()
-    .then(inv.doTheThing)
-    .then(write.writeInventory)
-    .catch(console.error);
-
-function welcome() {
-    clear();
-    console.log(
-        chalk.yellow(
-            figlet.textSync('Pokétriever', {
-                horizontalLayout: 'full'
-            })
-        )
-    );
-}
+program
+.version('0.0.1')
+.command('inv','Get inventory')
+.command('sheet','Write an existing inventory file to a Google Sheet')
+.parse(process.argv);

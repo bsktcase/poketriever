@@ -1,4 +1,5 @@
-const welcome = require('./lib/welcome'),
+const
+    welcome = require('./lib/welcome'),
     loc = require('./lib/loc'),
     cred = require('./lib/cred'),
     inv = require('./lib/pogo/inv'),

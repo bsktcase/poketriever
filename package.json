@@ -28,7 +28,7 @@
     "googleapis": "^18.0.0",
     "inquirer": "^3.0.6",
     "moment": "^2.18.1",
-    "pogobuf": "^1.10.0"
+    "pogobuf": "git+https://github.com/pogosandbox/pogobuf.git"
   },
   "devDependencies": {
     "eslint": "^3.18.0",

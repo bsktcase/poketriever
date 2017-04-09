@@ -1,7 +1,7 @@
 ##ignore private properties
 config/private
 inventory.json
-inventory.txt
+inventory.1.json
 
 # Logs
 logs

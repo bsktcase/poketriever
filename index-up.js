@@ -6,4 +6,5 @@ const
 welcome.welcome();
 
 auth.authenticate()
+    .then(gsheets.clearSheets)
     .then(gsheets.doTheThing);

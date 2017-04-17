@@ -6,9 +6,9 @@ const
     write = require('./lib/write');
 
 welcome.welcome();
-loc.checkLocation();
 
-cred.getUserCredentials()
+loc.checkLocation()
+    .then(cred.getUserCredentials)
     .then(inv.doTheThing)
     .then(write.writeInventory)
     .catch(console.error);

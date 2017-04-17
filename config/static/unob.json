@@ -1,0 +1,91 @@
+[{
+        "Id": 83,
+        "Name": "Farfetch'd",
+        "Unobtainium": "Asia"
+    },
+    {
+        "Id": 115,
+        "Name": "Kangaskhan",
+        "Unobtainium": "Australia"
+    },
+    {
+        "Id": 122,
+        "Name": "Mr. Mime",
+        "Unobtainium": "Europe"
+    },
+    {
+        "Id": 144,
+        "Name": "Articuno",
+        "Unobtainium": "Legendary"
+    },
+    {
+        "Id": 145,
+        "Name": "Zapdos",
+        "Unobtainium": "Legendary"
+    },
+    {
+        "Id": 146,
+        "Name": "Moltres",
+        "Unobtainium": "Legendary"
+    },
+    {
+        "Id": 150,
+        "Name": "Mewtwo",
+        "Unobtainium": "Legendary"
+    },
+    {
+        "Id": 151,
+        "Name": "Mew",
+        "Unobtainium": "Mythic"
+    },
+    {
+        "Id": 214,
+        "Name": "Heracross",
+        "Unobtainium": "Florida"
+    },
+    {
+        "Id": 222,
+        "Name": "Corsola",
+        "Unobtainium": "Florida"
+    },
+    {
+        "Id": 225,
+        "Name": "Delibird",
+        "Unobtainium": "Gen2.5"
+    },
+    {
+        "Id": 235,
+        "Name": "Smeargle",
+        "Unobtainium": "Gen2.5"
+    },
+    {
+        "Id": 243,
+        "Name": "Raikou",
+        "Unobtainium": "Legendary"
+    },
+    {
+        "Id": 244,
+        "Name": "Entei",
+        "Unobtainium": "Legendary"
+    },
+    {
+        "Id": 245,
+        "Name": "Suicune",
+        "Unobtainium": "Legendary"
+    },
+    {
+        "Id": 249,
+        "Name": "Lugia",
+        "Unobtainium": "Legendary"
+    },
+    {
+        "Id": 250,
+        "Name": "Ho-Oh",
+        "Unobtainium": "Legendary"
+    },
+    {
+        "Id": 251,
+        "Name": "Celebi",
+        "Unobtainium": "Mythic"
+    }
+]

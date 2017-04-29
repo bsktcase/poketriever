@@ -7,8 +7,14 @@ const
 
 welcome.welcome();
 
-loc.checkLocation()
-    .then(cred.getUserCredentials)
-    .then(inv.doTheThing)
+Promise.all([
+    cred.getUserCredentials(),
+    loc.getLocation()
+])
+    .then(result => {
+        let credentials = result[0],
+            location = result[1];
+        return inv.doTheThing(credentials, location);
+    })
     .then(write.writeInventory)
     .catch(console.error);

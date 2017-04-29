@@ -1,16 +1,13 @@
 const
     welcome = require('./lib/welcome'),
     loc = require('./lib/loc'),
-    cred = require('./lib/cred'),
+    cred = require('./lib/pogo/cred'),
     inv = require('./lib/pogo/inv'),
     write = require('./lib/write');
 
 welcome.welcome();
 
-Promise.all([
-    cred.getUserCredentials(),
-    loc.getLocation()
-])
+Promise.all([cred.getUserCredentials(), loc.getLocation()])
     .then(result => {
         let credentials = result[0],
             location = result[1];

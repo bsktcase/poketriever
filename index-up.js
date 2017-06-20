@@ -7,4 +7,6 @@ welcome.welcome();
 
 auth.authenticate()
     .then(gsheets.clearSheets)
-    .then(gsheets.doTheThing);
+    .then(gsheets.doTheThing)
+    .then(gsheets.updateFormulae)
+    .catch(console.err);

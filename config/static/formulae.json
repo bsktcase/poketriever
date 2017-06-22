@@ -1,0 +1,56 @@
+[{
+        "name" : "tag",
+        "column": 3,
+        "formula": "=INDEX(gradetag,MATCH(1,($F2>=grademin)*($F2<=grademax),0),1)"
+    },
+    {
+        "name" : "grade",
+        "column": 4,
+        "formula": "=INDEX(grade,MATCH(1,($F2>=grademin)*($F2<grademax),0),1)"
+    },
+    {
+        "name" : "iv",
+        "column": 5,
+        "formula": "=($I2+$J2+$K2)/45"
+    },
+    {
+        "name" : "cp",
+        "column": 6,
+        "formula": "=IFERROR(FLOOR((ARRAYFORMULA(INDEX(baseattack,MATCH($B2,pokename,0),1))+$I2)*(ARRAYFORMULA(INDEX(basedefense,MATCH($B2,pokename,0),1))+$J2)^0.5*(ARRAYFORMULA(INDEX(basestamina,MATCH($B2,pokename,0),1))+$K2)^0.5*ARRAYFORMULA(INDEX(cpmultiplier,MATCH($H2,levels,0),1))^2/10),\"\")"
+    },
+    {
+        "name" : "finalevo",
+        "column": 14,
+        "formula": "=IFERROR(INDEX(finalevo,MATCH($B2,pokename,0),1),\"\")"
+    },
+    {
+        "name" : "maxcpcurrentlevel",
+        "column": 15,
+        "formula": "=IFERROR(FLOOR((ARRAYFORMULA(INDEX(baseattack,MATCH($B2,pokename,0),1))+$I2)*(ARRAYFORMULA(INDEX(basedefense,MATCH($B2,pokename,0),1))+$J2)^0.5*(ARRAYFORMULA(INDEX(basestamina,MATCH($B2,pokename,0),1))+$K2)^0.5*ARRAYFORMULA(INDEX(cpmultiplier,MATCH(currentlevel+1.5,levels,0),1))^2/10),0)"
+    },
+    {
+        "name" : "maxcpfinalevocurrentlevel",
+        "column": 16,
+        "formula": "=IFERROR(FLOOR((ARRAYFORMULA(INDEX(baseattack,MATCH($O2,pokename,0),1))+$I2)*(ARRAYFORMULA(INDEX(basedefense,MATCH($O2,pokename,0),1))+$J2)^0.5*(ARRAYFORMULA(INDEX(basestamina,MATCH($O2,pokename,0),1))+$K2)^0.5*ARRAYFORMULA(INDEX(cpmultiplier,MATCH(currentlevel,levels,0),1))^2/10),$P2)"
+    },
+    {
+        "name" : "stardustcost",
+        "column": 17,
+        "formula": "=INDEX(cumuldust,MATCH(currentlevel+1.5,levels,0),0) - INDEX(cumuldust,MATCH($H2,levels,0),0)"
+    },
+    {
+        "name" : "candycost",
+        "column": 18,
+        "formula": "=CONCAT(INDEX(cumulcandy,MATCH(currentlevel+1.5,levels,0),0) - INDEX(cumulcandy,MATCH($H2,levels,0),0), IF(ISBLANK($O2),\"\",\"*\"))"
+    },
+    {
+        "name" : "maxcp40",
+        "column": 19,
+        "formula": "=IFERROR(FLOOR((ARRAYFORMULA(INDEX(baseattack,MATCH($B2,pokename,0),1))+$I2)*(ARRAYFORMULA(INDEX(basedefense,MATCH($B2,pokename,0),1))+$J2)^0.5*(ARRAYFORMULA(INDEX(basestamina,MATCH($B2,pokename,0),1))+$K2)^0.5*ARRAYFORMULA(INDEX(cpmultiplier,MATCH(40,levels,0),1))^2/10),0)"
+    },
+    {
+        "name" : "maxcpfinalevo40",
+        "column": 20,
+        "formula": "=IFERROR(FLOOR((ARRAYFORMULA(INDEX(baseattack,MATCH($O2,pokename,0),1))+$I2)*(ARRAYFORMULA(INDEX(basedefense,MATCH($O2,pokename,0),1))+$J2)^0.5*(ARRAYFORMULA(INDEX(basestamina,MATCH($O2,pokename,0),1))+$K2)^0.5*ARRAYFORMULA(INDEX(cpmultiplier,MATCH(40,levels,0),1))^2/10),$T2)"
+    }
+]

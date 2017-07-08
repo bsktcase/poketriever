@@ -21,7 +21,7 @@
     {
         "name" : "finalevo",
         "column": 14,
-        "formula": "=IFERROR(INDEX(finalevo,MATCH($B2,pokename,0),1),\"\")"
+        "formula": "=IFERROR(INDEX(evofinal,MATCH($B2,pokename,0),1),\"\")"
     },
     {
         "name" : "maxcpcurrentlevel",

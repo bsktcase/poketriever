@@ -26,20 +26,20 @@
     "clear": "0.0.1",
     "commander": "^2.11.0",
     "debug": "^2.6.8",
-    "es5-ext": "^0.10.23",
+    "es5-ext": "^0.10.24",
     "external-editor": "^2.0.4",
     "figlet": "^1.2.0",
     "glob": "^7.1.2",
     "googleapis": "^20.0.1",
     "ignore": "^3.3.3",
-    "inquirer": "^3.1.1",
+    "inquirer": "^3.2.0",
     "moment": "^2.18.1",
     "pogobuf-vnext": "^2.3.2",
     "readable-stream": "^2.3.3",
     "safe-buffer": "^5.1.1"
   },
   "devDependencies": {
-    "eslint": "^4.1.1",
+    "eslint": "^4.2.0",
     "eslint-plugin-react": "^7.1.0"
   }
 }

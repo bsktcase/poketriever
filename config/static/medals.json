@@ -1,0 +1,93 @@
+{
+    "medals": {
+        "medalacetrainer": "",
+        "medalbackpacker": "",
+        "medalbattlegirl": "",
+        "medalberry": "",
+        "medalbreeder": "",
+        "medalchampion": "",
+        "medalcollector": "",
+        "medalfisherman": "",
+        "medalgymleader": "",
+        "medaljogger": "",
+        "medaljohto": "",
+        "medalkanto": "",
+        "medalpikachu": "",
+        "medalscientist": "",
+        "medalyoungster": ""
+    },
+    "types": [{},
+        {
+            "name": "medalnormal",
+            "count": 0
+        },
+        {
+            "name": "medalfighting",
+            "count": 0
+        },
+        {
+            "name": "medalflying",
+            "count": 0
+        },
+        {
+            "name": "medalpoison",
+            "count": 0
+        },
+        {
+            "name": "medalground",
+            "count": 0
+        },
+        {
+            "name": "medalrock",
+            "count": 0
+        },
+        {
+            "name": "medalbug",
+            "count": 0
+        },
+        {
+            "name": "medalghost",
+            "count": 0
+        },
+        {
+            "name": "medalsteel",
+            "count": 0
+        },
+        {
+            "name": "medalfire",
+            "count": 0
+        },
+        {
+            "name": "medalwater",
+            "count": 0
+        },
+        {
+            "name": "medalgrass",
+            "count": 0
+        },
+        {
+            "name": "medalelectric",
+            "count": 0
+        },
+        {
+            "name": "medalpsychic",
+            "count": 0
+        },
+        {
+            "name": "medalice",
+            "count": 0
+        },
+        {
+            "name": "medaldragon",
+            "count": 0
+        },
+        {
+            "name": "medaldark",
+            "count": 0
+        },
+        {
+            "name": "medalfairy",
+            "count": 0
+        }
+    ]
+}

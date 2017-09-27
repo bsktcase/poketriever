@@ -25,21 +25,21 @@
     "chalk": "^2.1.0",
     "clear": "0.0.1",
     "commander": "^2.11.0",
-    "debug": "^2.6.8",
+    "debug": "^3.1.0",
     "es5-ext": "^0.10.30",
-    "external-editor": "^2.0.4",
+    "external-editor": "^2.0.5",
     "figlet": "^1.2.0",
     "glob": "^7.1.2",
-    "googleapis": "^20.2.0",
+    "googleapis": "^22.2.0",
     "ignore": "^3.3.5",
-    "inquirer": "^3.2.3",
+    "inquirer": "^3.3.0",
     "moment": "^2.18.1",
-    "pogobuf-vnext": "^2.4.0",
+    "pogobuf-vnext": "^2.5.1",
     "readable-stream": "^2.3.3",
     "safe-buffer": "^5.1.1"
   },
   "devDependencies": {
-    "eslint": "^4.6.1",
-    "eslint-plugin-react": "^7.3.0"
+    "eslint": "^4.7.2",
+    "eslint-plugin-react": "^7.4.0"
   }
 }

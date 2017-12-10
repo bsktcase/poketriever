@@ -2,668 +2,383 @@
 }, {}, {}, {
     "Id": 13,
     "Name": "Wrap",
-    "Speed": "Charge",
-    "Type": "Normal",
-    "Power": 60,
-    "DurationMs": 2900
+    "Speed": "Charge"
  }, {
     "Id": 14,
     "Name": "Hyper Beam",
-    "Speed": "Charge",
-    "Type": "Normal",
-    "Power": 150,
-    "DurationMs": 3800
+    "Speed": "Charge"
  }, {}, {
     "Id": 16,
     "Name": "Dark Pulse",
-    "Speed": "Charge",
-    "Type": "Dark",
-    "Power": 80,
-    "DurationMs": 3000
+    "Speed": "Charge"
  }, {}, {
     "Id": 18,
     "Name": "Sludge",
-    "Speed": "Charge",
-    "Type": "Poison",
-    "Power": 50,
-    "DurationMs": 2100
+    "Speed": "Charge"
  }, {}, {
     "Id": 20,
     "Name": "Vice Grip",
-    "Speed": "Charge",
-    "Type": "Normal",
-    "Power": 35,
-    "DurationMs": 1900
+    "Speed": "Charge"
  }, {
     "Id": 21,
     "Name": "Flame Wheel",
-    "Speed": "Charge",
-    "Type": "Fire",
-    "Power": 60,
-    "DurationMs": 2700
+    "Speed": "Charge"
  }, {
     "Id": 22,
     "Name": "Megahorn",
-    "Speed": "Charge",
-    "Type": "Bug",
-    "Power": 90,
-    "DurationMs": 2200
+    "Speed": "Charge"
  }, {}, {
     "Id": 24,
     "Name": "Flamethrower",
-    "Speed": "Charge",
-    "Type": "Fire",
-    "Power": 70,
-    "DurationMs": 2200
+    "Speed": "Charge"
  }, {}, {
     "Id": 26,
     "Name": "Dig",
-    "Speed": "Charge",
-    "Type": "Ground",
-    "Power": 100,
-    "DurationMs": 4700
+    "Speed": "Charge"
  }, {}, {
     "Id": 28,
     "Name": "Cross Chop",
-    "Speed": "Charge",
-    "Type": "Fighting",
-    "Power": 50,
-    "DurationMs": 1500
+    "Speed": "Charge"
  }, {}, {
     "Id": 30,
     "Name": "Psybeam",
-    "Speed": "Charge",
-    "Type": "Psychic",
-    "Power": 70,
-    "DurationMs": 3200
+    "Speed": "Charge"
  }, {
     "Id": 31,
     "Name": "Earthquake",
-    "Speed": "Charge",
-    "Type": "Ground",
-    "Power": 120,
-    "DurationMs": 3600
+    "Speed": "Charge"
  }, {
     "Id": 32,
     "Name": "Stone Edge",
-    "Speed": "Charge",
-    "Type": "Rock",
-    "Power": 100,
-    "DurationMs": 2300
+    "Speed": "Charge"
  }, {
     "Id": 33,
     "Name": "Ice Punch",
-    "Speed": "Charge",
-    "Type": "Ice",
-    "Power": 50,
-    "DurationMs": 1900
+    "Speed": "Charge"
  }, {
     "Id": 34,
     "Name": "Heart Stamp",
-    "Speed": "Charge",
-    "Type": "Psychic",
-    "Power": 40,
-    "DurationMs": 1900
+    "Speed": "Charge"
  }, {
     "Id": 35,
     "Name": "Discharge",
-    "Speed": "Charge",
-    "Type": "Electric",
-    "Power": 65,
-    "DurationMs": 2500
+    "Speed": "Charge"
  }, {
     "Id": 36,
     "Name": "Flash Cannon",
-    "Speed": "Charge",
-    "Type": "Steel",
-    "Power": 100,
-    "DurationMs": 2700
+    "Speed": "Charge"
  }, {}, {
     "Id": 38,
     "Name": "Drill Peck",
-    "Speed": "Charge",
-    "Type": "Flying",
-    "Power": 60,
-    "DurationMs": 2300
+    "Speed": "Charge"
  }, {
     "Id": 39,
     "Name": "Ice Beam",
-    "Speed": "Charge",
-    "Type": "Ice",
-    "Power": 90,
-    "DurationMs": 3300
+    "Speed": "Charge"
  }, {
     "Id": 40,
     "Name": "Blizzard",
-    "Speed": "Charge",
-    "Type": "Ice",
-    "Power": 130,
-    "DurationMs": 3100
+    "Speed": "Charge"
  }, {}, {
     "Id": 42,
     "Name": "Heat Wave",
-    "Speed": "Charge",
-    "Type": "Fire",
-    "Power": 95,
-    "DurationMs": 3000
+    "Speed": "Charge"
  }, {}, {}, {
     "Id": 45,
     "Name": "Aerial Ace",
-    "Speed": "Charge",
-    "Type": "Flying",
-    "Power": 55,
-    "DurationMs": 2400
+    "Speed": "Charge"
  }, {
     "Id": 46,
     "Name": "Drill Run",
-    "Speed": "Charge",
-    "Type": "Ground",
-    "Power": 80,
-    "DurationMs": 2800
+    "Speed": "Charge"
  }, {
     "Id": 47,
     "Name": "Petal Blizzard",
-    "Speed": "Charge",
-    "Type": "Grass",
-    "Power": 110,
-    "DurationMs": 2600
+    "Speed": "Charge"
  }, {
     "Id": 48,
     "Name": "Mega Drain",
-    "Speed": "Charge",
-    "Type": "Grass",
-    "Power": 25,
-    "DurationMs": 2600
+    "Speed": "Charge"
  }, {
     "Id": 49,
     "Name": "Bug Buzz",
-    "Speed": "Charge",
-    "Type": "Bug",
-    "Power": 90,
-    "DurationMs": 3700
+    "Speed": "Charge"
  }, {
     "Id": 50,
     "Name": "Poison Fang",
-    "Speed": "Charge",
-    "Type": "Poison",
-    "Power": 35,
-    "DurationMs": 1700
+    "Speed": "Charge"
  }, {
     "Id": 51,
     "Name": "Night Slash",
-    "Speed": "Charge",
-    "Type": "Dark",
-    "Power": 50,
-    "DurationMs": 2200
+    "Speed": "Charge"
  }, {}, {
     "Id": 53,
     "Name": "Bubble Beam",
-    "Speed": "Charge",
-    "Type": "Water",
-    "Power": 45,
-    "DurationMs": 1900
+    "Speed": "Charge"
  }, {
     "Id": 54,
     "Name": "Submission",
-    "Speed": "Charge",
-    "Type": "Fighting",
-    "Power": 60,
-    "DurationMs": 2200
+    "Speed": "Charge"
  }, {}, {
     "Id": 56,
     "Name": "Low Sweep",
-    "Speed": "Charge",
-    "Type": "Fighting",
-    "Power": 40,
-    "DurationMs": 1900
+    "Speed": "Charge"
  }, {
     "Id": 57,
     "Name": "Aqua Jet",
-    "Speed": "Charge",
-    "Type": "Water",
-    "Power": 45,
-    "DurationMs": 2600
+    "Speed": "Charge"
  }, {
     "Id": 58,
     "Name": "Aqua Tail",
-    "Speed": "Charge",
-    "Type": "Water",
-    "Power": 50,
-    "DurationMs": 1900
+    "Speed": "Charge"
  }, {
     "Id": 59,
     "Name": "Seed Bomb",
-    "Speed": "Charge",
-    "Type": "Grass",
-    "Power": 55,
-    "DurationMs": 2100
+    "Speed": "Charge"
  }, {
     "Id": 60,
     "Name": "Psyshock",
-    "Speed": "Charge",
-    "Type": "Psychic",
-    "Power": 65,
-    "DurationMs": 2700
+    "Speed": "Charge"
  }, {}, {
     "Id": 62,
     "Name": "Ancient Power",
-    "Speed": "Charge",
-    "Type": "Rock",
-    "Power": 70,
-    "DurationMs": 3500
+    "Speed": "Charge"
  }, {
     "Id": 63,
     "Name": "Rock Tomb",
-    "Speed": "Charge",
-    "Type": "Rock",
-    "Power": 70,
-    "DurationMs": 3200
+    "Speed": "Charge"
  }, {
     "Id": 64,
     "Name": "Rock Slide",
-    "Speed": "Charge",
-    "Type": "Rock",
-    "Power": 80,
-    "DurationMs": 2700
+    "Speed": "Charge"
  }, {
     "Id": 65,
     "Name": "Power Gem",
-    "Speed": "Charge",
-    "Type": "Rock",
-    "Power": 80,
-    "DurationMs": 2900
+    "Speed": "Charge"
  }, {
     "Id": 66,
     "Name": "Shadow Sneak",
-    "Speed": "Charge",
-    "Type": "Ghost",
-    "Power": 50,
-    "DurationMs": 2900
+    "Speed": "Charge"
  }, {
     "Id": 67,
     "Name": "Shadow Punch",
-    "Speed": "Charge",
-    "Type": "Ghost",
-    "Power": 40,
-    "DurationMs": 1700
+    "Speed": "Charge"
  }, {}, {
     "Id": 69,
     "Name": "Ominous Wind",
-    "Speed": "Charge",
-    "Type": "Ghost",
-    "Power": 50,
-    "DurationMs": 2300
+    "Speed": "Charge"
  }, {
     "Id": 70,
     "Name": "Shadow Ball",
-    "Speed": "Charge",
-    "Type": "Ghost",
-    "Power": 100,
-    "DurationMs": 3000
+    "Speed": "Charge"
  }, {}, {
     "Id": 72,
     "Name": "Magnet Bomb",
-    "Speed": "Charge",
-    "Type": "Steel",
-    "Power": 70,
-    "DurationMs": 2800
+    "Speed": "Charge"
  }, {}, {
     "Id": 74,
     "Name": "Iron Head",
-    "Speed": "Charge",
-    "Type": "Steel",
-    "Power": 60,
-    "DurationMs": 1900
+    "Speed": "Charge"
  }, {
     "Id": 75,
     "Name": "Parabolic Charge",
-    "Speed": "Charge",
-    "Type": "Electric",
-    "Power": 25,
-    "DurationMs": 2800
+    "Speed": "Charge"
  }, {}, {
     "Id": 77,
     "Name": "Thunder Punch",
-    "Speed": "Charge",
-    "Type": "Electric",
-    "Power": 45,
-    "DurationMs": 1800
+    "Speed": "Charge"
  }, {
     "Id": 78,
     "Name": "Thunder",
-    "Speed": "Charge",
-    "Type": "Electric",
-    "Power": 100,
-    "DurationMs": 2400
+    "Speed": "Charge"
  }, {
     "Id": 79,
     "Name": "Thunderbolt",
-    "Speed": "Charge",
-    "Type": "Electric",
-    "Power": 80,
-    "DurationMs": 2500
+    "Speed": "Charge"
  }, {
     "Id": 80,
     "Name": "Twister",
-    "Speed": "Charge",
-    "Type": "Dragon",
-    "Power": 45,
-    "DurationMs": 2800
+    "Speed": "Charge"
  }, {}, {
     "Id": 82,
     "Name": "Dragon Pulse",
-    "Speed": "Charge",
-    "Type": "Dragon",
-    "Power": 90,
-    "DurationMs": 3600
+    "Speed": "Charge"
  }, {
     "Id": 83,
     "Name": "Dragon Claw",
-    "Speed": "Charge",
-    "Type": "Dragon",
-    "Power": 50,
-    "DurationMs": 1700
+    "Speed": "Charge"
  }, {
     "Id": 84,
     "Name": "Disarming Voice",
-    "Speed": "Charge",
-    "Type": "Fairy",
-    "Power": 70,
-    "DurationMs": 3900
+    "Speed": "Charge"
  }, {
     "Id": 85,
     "Name": "Draining Kiss",
-    "Speed": "Charge",
-    "Type": "Fairy",
-    "Power": 60,
-    "DurationMs": 2600
+    "Speed": "Charge"
  }, {
     "Id": 86,
     "Name": "Dazzling Gleam",
-    "Speed": "Charge",
-    "Type": "Fairy",
-    "Power": 100,
-    "DurationMs": 3500
+    "Speed": "Charge"
  }, {
     "Id": 87,
     "Name": "Moonblast",
-    "Speed": "Charge",
-    "Type": "Fairy",
-    "Power": 130,
-    "DurationMs": 3900
+    "Speed": "Charge"
  }, {
     "Id": 88,
     "Name": "Play Rough",
-    "Speed": "Charge",
-    "Type": "Fairy",
-    "Power": 90,
-    "DurationMs": 2900
+    "Speed": "Charge"
  }, {
     "Id": 89,
     "Name": "Cross Poison",
-    "Speed": "Charge",
-    "Type": "Poison",
-    "Power": 40,
-    "DurationMs": 1500
+    "Speed": "Charge"
  }, {
     "Id": 90,
     "Name": "Sludge Bomb",
-    "Speed": "Charge",
-    "Type": "Poison",
-    "Power": 80,
-    "DurationMs": 2300
+    "Speed": "Charge"
  }, {
     "Id": 91,
     "Name": "Sludge Wave",
-    "Speed": "Charge",
-    "Type": "Poison",
-    "Power": 110,
-    "DurationMs": 3200
+    "Speed": "Charge"
  }, {
     "Id": 92,
     "Name": "Gunk Shot",
-    "Speed": "Charge",
-    "Type": "Poison",
-    "Power": 130,
-    "DurationMs": 3100
+    "Speed": "Charge"
  }, {}, {
     "Id": 94,
     "Name": "Bone Club",
-    "Speed": "Charge",
-    "Type": "Ground",
-    "Power": 40,
-    "DurationMs": 1600
+    "Speed": "Charge"
  }, {
     "Id": 95,
     "Name": "Bulldoze",
-    "Speed": "Charge",
-    "Type": "Ground",
-    "Power": 80,
-    "DurationMs": 3500
+    "Speed": "Charge"
  }, {
     "Id": 96,
     "Name": "Mud Bomb",
-    "Speed": "Charge",
-    "Type": "Ground",
-    "Power": 55,
-    "DurationMs": 2300
+    "Speed": "Charge"
  }, {}, {}, {
     "Id": 99,
     "Name": "Signal Beam",
-    "Speed": "Charge",
-    "Type": "Bug",
-    "Power": 75,
-    "DurationMs": 2900
+    "Speed": "Charge"
  }, {
     "Id": 100,
     "Name": "X Scissor",
-    "Speed": "Charge",
-    "Type": "Bug",
-    "Power": 45,
-    "DurationMs": 1600
+    "Speed": "Charge"
  }, {
     "Id": 101,
     "Name": "Flame Charge",
-    "Speed": "Charge",
-    "Type": "Fire",
-    "Power": 70,
-    "DurationMs": 3800
+    "Speed": "Charge"
  }, {
     "Id": 102,
     "Name": "Flame Burst",
-    "Speed": "Charge",
-    "Type": "Fire",
-    "Power": 70,
-    "DurationMs": 2600
+    "Speed": "Charge"
  }, {
     "Id": 103,
     "Name": "Fire Blast",
-    "Speed": "Charge",
-    "Type": "Fire",
-    "Power": 140,
-    "DurationMs": 4200
+    "Speed": "Charge"
  }, {
     "Id": 104,
     "Name": "Brine",
-    "Speed": "Charge",
-    "Type": "Water",
-    "Power": 60,
-    "DurationMs": 2300
+    "Speed": "Charge"
  }, {
     "Id": 105,
     "Name": "Water Pulse",
-    "Speed": "Charge",
-    "Type": "Water",
-    "Power": 70,
-    "DurationMs": 3200
+    "Speed": "Charge"
  }, {
     "Id": 106,
     "Name": "Scald",
-    "Speed": "Charge",
-    "Type": "Water",
-    "Power": 80,
-    "DurationMs": 3700
+    "Speed": "Charge"
  }, {
     "Id": 107,
     "Name": "Hydro Pump",
-    "Speed": "Charge",
-    "Type": "Water",
-    "Power": 130,
-    "DurationMs": 3300
+    "Speed": "Charge"
  }, {
     "Id": 108,
     "Name": "Psychic",
-    "Speed": "Charge",
-    "Type": "Psychic",
-    "Power": 100,
-    "DurationMs": 2800
+    "Speed": "Charge"
  }, {
     "Id": 109,
     "Name": "Psystrike",
-    "Speed": "Charge",
-    "Type": "Psychic",
-    "Power": 100,
-    "DurationMs": 4400
+    "Speed": "Charge"
  }, {}, {
     "Id": 111,
     "Name": "Icy Wind",
-    "Speed": "Charge",
-    "Type": "Ice",
-    "Power": 60,
-    "DurationMs": 3300
+    "Speed": "Charge"
  }, {}, {}, {
     "Id": 114,
     "Name": "Giga Drain",
-    "Speed": "Charge",
-    "Type": "Grass",
-    "Power": 50,
-    "DurationMs": 3900
+    "Speed": "Charge"
  }, {
     "Id": 115,
     "Name": "Fire Punch",
-    "Speed": "Charge",
-    "Type": "Fire",
-    "Power": 55,
-    "DurationMs": 2200
+    "Speed": "Charge"
  }, {
     "Id": 116,
     "Name": "Solar Beam",
-    "Speed": "Charge",
-    "Type": "Grass",
-    "Power": 180,
-    "DurationMs": 4900
+    "Speed": "Charge"
  }, {
     "Id": 117,
     "Name": "Leaf Blade",
-    "Speed": "Charge",
-    "Type": "Grass",
-    "Power": 70,
-    "DurationMs": 2400
+    "Speed": "Charge"
  }, {
     "Id": 118,
     "Name": "Power Whip",
-    "Speed": "Charge",
-    "Type": "Grass",
-    "Power": 90,
-    "DurationMs": 2600
+    "Speed": "Charge"
  }, {}, {}, {
     "Id": 121,
     "Name": "Air Cutter",
-    "Speed": "Charge",
-    "Type": "Flying",
-    "Power": 60,
-    "DurationMs": 2700
+    "Speed": "Charge"
  }, {
     "Id": 122,
     "Name": "Hurricane",
-    "Speed": "Charge",
-    "Type": "Flying",
-    "Power": 110,
-    "DurationMs": 2700
+    "Speed": "Charge"
  }, {
     "Id": 123,
     "Name": "Brick Break",
-    "Speed": "Charge",
-    "Type": "Fighting",
-    "Power": 40,
-    "DurationMs": 1600
+    "Speed": "Charge"
  }, {}, {
     "Id": 125,
     "Name": "Swift",
-    "Speed": "Charge",
-    "Type": "Normal",
-    "Power": 60,
-    "DurationMs": 2800
+    "Speed": "Charge"
  }, {
     "Id": 126,
     "Name": "Horn Attack",
-    "Speed": "Charge",
-    "Type": "Normal",
-    "Power": 40,
-    "DurationMs": 1850
+    "Speed": "Charge"
  }, {
     "Id": 127,
     "Name": "Stomp",
-    "Speed": "Charge",
-    "Type": "Normal",
-    "Power": 55,
-    "DurationMs": 1700
+    "Speed": "Charge"
  }, {}, {
     "Id": 129,
     "Name": "Hyper Fang",
-    "Speed": "Charge",
-    "Type": "Normal",
-    "Power": 80,
-    "DurationMs": 2500
+    "Speed": "Charge"
  }, {}, {
     "Id": 131,
     "Name": "Body Slam",
-    "Speed": "Charge",
-    "Type": "Normal",
-    "Power": 50,
-    "DurationMs": 1900
+    "Speed": "Charge"
  }, {
     "Id": 132,
     "Name": "Rest",
-    "Speed": "Charge",
-    "Type": "Normal",
-    "Power": 50,
-    "DurationMs": 1900
+    "Speed": "Charge"
  }, {
     "Id": 133,
     "Name": "Struggle",
-    "Speed": "Charge",
-    "Type": "Normal",
-    "Power": 35,
-    "DurationMs": 2200
+    "Speed": "Charge"
  }, {
     "Id": 134,
     "Name": "Scald Blastoise",
-    "Speed": "Charge",
-    "Type": "Water",
-    "Power": 50,
-    "DurationMs": 4700
+    "Speed": "Charge"
  }, {
     "Id": 135,
     "Name": "Hydro Pump Blastoise",
-    "Speed": "Charge",
-    "Type": "Water",
-    "Power": 90,
-    "DurationMs": 4500
+    "Speed": "Charge"
  }, {
     "Id": 136,
     "Name": "Wrap Green",
-    "Speed": "Charge",
-    "Type": "Normal",
-    "Power": 25,
-    "DurationMs": 2900
+    "Speed": "Charge"
  }, {
     "Id": 137,
     "Name": "Wrap Pink",
-    "Speed": "Charge",
-    "Type": "Normal",
-    "Power": 25,
-    "DurationMs": 2900
+    "Speed": "Charge"
  }, {}, {}, {
 }, {}, {}, {}, {}, {}, {}, {}, {}, {}, {
 }, {}, {}, {}, {}, {}, {}, {}, {}, {}, {
@@ -673,575 +388,369 @@
 }, {}, {}, {}, {}, {}, {}, {}, {}, {}, {
     "Id": 200,
     "Name": "Fury Cutter",
-    "Speed": "Fast",
-    "Type": "Bug",
-    "Power": 3,
-    "DurationMs": 400
+    "Speed": "Fast"
  }, {
     "Id": 201,
     "Name": "Bug Bite",
-    "Speed": "Fast",
-    "Type": "Bug",
-    "Power": 5,
-    "DurationMs": 500
+    "Speed": "Fast"
  }, {
     "Id": 202,
     "Name": "Bite",
-    "Speed": "Fast",
-    "Type": "Dark",
-    "Power": 6,
-    "DurationMs": 500
+    "Speed": "Fast"
  }, {
     "Id": 203,
     "Name": "Sucker Punch",
-    "Speed": "Fast",
-    "Type": "Dark",
-    "Power": 7,
-    "DurationMs": 700
+    "Speed": "Fast"
  }, {
     "Id": 204,
     "Name": "Dragon Breath",
-    "Speed": "Fast",
-    "Type": "Dragon",
-    "Power": 6,
-    "DurationMs": 500
+    "Speed": "Fast"
  }, {
     "Id": 205,
     "Name": "Thunder Shock",
-    "Speed": "Fast",
-    "Type": "Electric",
-    "Power": 5,
-    "DurationMs": 600
+    "Speed": "Fast"
  }, {
     "Id": 206,
     "Name": "Spark",
-    "Speed": "Fast",
-    "Type": "Electric",
-    "Power": 6,
-    "DurationMs": 700
+    "Speed": "Fast"
  }, {
     "Id": 207,
     "Name": "Low Kick",
-    "Speed": "Fast",
-    "Type": "Fighting",
-    "Power": 6,
-    "DurationMs": 600
+    "Speed": "Fast"
  }, {
     "Id": 208,
     "Name": "Karate Chop",
-    "Speed": "Fast",
-    "Type": "Fighting",
-    "Power": 8,
-    "DurationMs": 800
+    "Speed": "Fast"
  }, {
     "Id": 209,
     "Name": "Ember",
-    "Speed": "Fast",
-    "Type": "Fire",
-    "Power": 10,
-    "DurationMs": 1000
+    "Speed": "Fast"
  }, {
     "Id": 210,
     "Name": "Wing Attack",
-    "Speed": "Fast",
-    "Type": "Flying",
-    "Power": 8,
-    "DurationMs": 800
+    "Speed": "Fast"
  }, {
     "Id": 211,
     "Name": "Peck",
-    "Speed": "Fast",
-    "Type": "Flying",
-    "Power": 10,
-    "DurationMs": 1000
+    "Speed": "Fast"
  }, {
     "Id": 212,
     "Name": "Lick",
-    "Speed": "Fast",
-    "Type": "Ghost",
-    "Power": 5,
-    "DurationMs": 500
+    "Speed": "Fast"
  }, {
     "Id": 213,
     "Name": "Shadow Claw",
-    "Speed": "Fast",
-    "Type": "Ghost",
-    "Power": 9,
-    "DurationMs": 700
+    "Speed": "Fast"
  }, {
     "Id": 214,
     "Name": "Vine Whip",
-    "Speed": "Fast",
-    "Type": "Grass",
-    "Power": 7,
-    "DurationMs": 600
+    "Speed": "Fast"
  }, {
     "Id": 215,
     "Name": "Razor Leaf",
-    "Speed": "Fast",
-    "Type": "Grass",
-    "Power": 13,
-    "DurationMs": 1000
+    "Speed": "Fast"
  }, {
     "Id": 216,
     "Name": "Mud Shot",
-    "Speed": "Fast",
-    "Type": "Ground",
-    "Power": 5,
-    "DurationMs": 600
+    "Speed": "Fast"
  }, {
     "Id": 217,
     "Name": "Ice Shard",
-    "Speed": "Fast",
-    "Type": "Ice",
-    "Power": 12,
-    "DurationMs": 1200
+    "Speed": "Fast"
  }, {
     "Id": 218,
     "Name": "Frost Breath",
-    "Speed": "Fast",
-    "Type": "Ice",
-    "Power": 10,
-    "DurationMs": 900
+    "Speed": "Fast"
  }, {
     "Id": 219,
     "Name": "Quick Attack",
-    "Speed": "Fast",
-    "Type": "Normal",
-    "Power": 8,
-    "DurationMs": 800
+    "Speed": "Fast"
  }, {
     "Id": 220,
     "Name": "Scratch",
-    "Speed": "Fast",
-    "Type": "Normal",
-    "Power": 6,
-    "DurationMs": 500
+    "Speed": "Fast"
  }, {
     "Id": 221,
     "Name": "Tackle",
-    "Speed": "Fast",
-    "Type": "Normal",
-    "Power": 5,
-    "DurationMs": 500
+    "Speed": "Fast"
  }, {
     "Id": 222,
     "Name": "Pound",
-    "Speed": "Fast",
-    "Type": "Normal",
-    "Power": 7,
-    "DurationMs": 600
+    "Speed": "Fast"
  }, {
     "Id": 223,
     "Name": "Cut",
-    "Speed": "Fast",
-    "Type": "Normal",
-    "Power": 5,
-    "DurationMs": 500
+    "Speed": "Fast"
  }, {
     "Id": 224,
     "Name": "Poison Jab",
-    "Speed": "Fast",
-    "Type": "Poison",
-    "Power": 10,
-    "DurationMs": 800
+    "Speed": "Fast"
  }, {
     "Id": 225,
     "Name": "Acid",
-    "Speed": "Fast",
-    "Type": "Poison",
-    "Power": 9,
-    "DurationMs": 800
+    "Speed": "Fast"
  }, {
     "Id": 226,
     "Name": "Psycho Cut",
-    "Speed": "Fast",
-    "Type": "Psychic",
-    "Power": 5,
-    "DurationMs": 600
+    "Speed": "Fast"
  }, {
     "Id": 227,
     "Name": "Rock Throw",
-    "Speed": "Fast",
-    "Type": "Rock",
-    "Power": 12,
-    "DurationMs": 900
+    "Speed": "Fast"
  }, {
     "Id": 228,
     "Name": "Metal Claw",
-    "Speed": "Fast",
-    "Type": "Steel",
-    "Power": 8,
-    "DurationMs": 700
+    "Speed": "Fast"
  }, {
     "Id": 229,
     "Name": "Bullet Punch",
-    "Speed": "Fast",
-    "Type": "Steel",
-    "Power": 9,
-    "DurationMs": 900
+    "Speed": "Fast"
  }, {
     "Id": 230,
     "Name": "Water Gun",
-    "Speed": "Fast",
-    "Type": "Water",
-    "Power": 5,
-    "DurationMs": 500
+    "Speed": "Fast"
  }, {
     "Id": 231,
     "Name": "Splash",
-    "Speed": "Fast",
-    "Type": "Water",
-    "Power": 0,
-    "DurationMs": 1730
+    "Speed": "Fast"
  }, {
     "Id": 232,
     "Name": "Water Gun Blastoise",
-    "Speed": "Fast",
-    "Type": "Water",
-    "Power": 10,
-    "DurationMs": 1000
+    "Speed": "Fast"
  }, {
     "Id": 233,
     "Name": "Mud Slap",
-    "Speed": "Fast",
-    "Type": "Ground",
-    "Power": 15,
-    "DurationMs": 1400
+    "Speed": "Fast"
  }, {
     "Id": 234,
     "Name": "Zen Headbutt",
-    "Speed": "Fast",
-    "Type": "Psychic",
-    "Power": 12,
-    "DurationMs": 1100
+    "Speed": "Fast"
  }, {
     "Id": 235,
     "Name": "Confusion",
-    "Speed": "Fast",
-    "Type": "Psychic",
-    "Power": 20,
-    "DurationMs": 1600
+    "Speed": "Fast"
  }, {
     "Id": 236,
     "Name": "Poison Sting",
-    "Speed": "Fast",
-    "Type": "Poison",
-    "Power": 5,
-    "DurationMs": 600
+    "Speed": "Fast"
  }, {
     "Id": 237,
     "Name": "Bubble",
-    "Speed": "Fast",
-    "Type": "Water",
-    "Power": 12,
-    "DurationMs": 1200
+    "Speed": "Fast"
  }, {
     "Id": 238,
     "Name": "Feint Attack",
-    "Speed": "Fast",
-    "Type": "Dark",
-    "Power": 10,
-    "DurationMs": 900
+    "Speed": "Fast"
  }, {
     "Id": 239,
     "Name": "Steel Wing",
-    "Speed": "Fast",
-    "Type": "Steel",
-    "Power": 11,
-    "DurationMs": 800
+    "Speed": "Fast"
  }, {
     "Id": 240,
     "Name": "Fire Fang",
-    "Speed": "Fast",
-    "Type": "Fire",
-    "Power": 11,
-    "DurationMs": 900
+    "Speed": "Fast"
  }, {
     "Id": 241,
     "Name": "Rock Smash",
-    "Speed": "Fast",
-    "Type": "Fighting",
-    "Power": 15,
-    "DurationMs": 1300
+    "Speed": "Fast"
  }, {
     "Id": 242,
     "Name": "Transform",
-    "Speed": "Fast",
-    "Type": "Normal",
-    "Power": 0,
-    "DurationMs": 2230
+    "Speed": "Fast"
  }, {
     "Id": 243,
     "Name": "Counter",
-    "Speed": "Fast",
-    "Type": "Fighting",
-    "Power": 12,
-    "DurationMs": 900
+    "Speed": "Fast"
  }, {
     "Id": 244,
     "Name": "Powder Snow",
-    "Speed": "Fast",
-    "Type": "Ice",
-    "Power": 6,
-    "DurationMs": 1100
+    "Speed": "Fast"
  }, {
     "Id": 245,
     "Name": "Close Combat",
-    "Speed": "Charge",
-    "Type": "Fighting",
-    "Power": 100,
-    "DurationMs": 2300
+    "Speed": "Charge"
  }, {
     "Id": 246,
     "Name": "Dynamic Punch",
-    "Speed": "Charge",
-    "Type": "Fighting",
-    "Power": 90,
-    "DurationMs": 2700
+    "Speed": "Charge"
  }, {
     "Id": 247,
     "Name": "Focus Blast",
-    "Speed": "Charge",
-    "Type": "Fighting",
-    "Power": 140,
-    "DurationMs": 3500
+    "Speed": "Charge"
  }, {
     "Id": 248,
     "Name": "Aurora Beam",
-    "Speed": "Charge",
-    "Type": "Ice",
-    "Power": 80,
-    "DurationMs": 3550
+    "Speed": "Charge"
  }, {
     "Id": 249,
     "Name": "Charge Beam",
-    "Speed": "Fast",
-    "Type": "Electric",
-    "Power": 8,
-    "DurationMs": 1100
+    "Speed": "Fast"
  }, {
     "Id": 250,
     "Name": "Volt Switch",
-    "Speed": "Fast",
-    "Type": "Electric",
-    "Power": 20,
-    "DurationMs": 2300
+    "Speed": "Fast"
  }, {
     "Id": 251,
     "Name": "Wild Charge",
-    "Speed": "Charge",
-    "Type": "Electric",
-    "Power": 90,
-    "DurationMs": 2600
+    "Speed": "Charge"
  }, {
     "Id": 252,
     "Name": "Zap Cannon",
-    "Speed": "Charge",
-    "Type": "Electric",
-    "Power": 140,
-    "DurationMs": 3700
+    "Speed": "Charge"
  }, {
     "Id": 253,
     "Name": "Dragon Tail",
-    "Speed": "Fast",
-    "Type": "Dragon",
-    "Power": 15,
-    "DurationMs": 1100
+    "Speed": "Fast"
  }, {
     "Id": 254,
     "Name": "Avalanche",
-    "Speed": "Charge",
-    "Type": "Ice",
-    "Power": 90,
-    "DurationMs": 2700
+    "Speed": "Charge"
  }, {
     "Id": 255,
     "Name": "Air Slash",
-    "Speed": "Fast",
-    "Type": "Flying",
-    "Power": 14,
-    "DurationMs": 1200
+    "Speed": "Fast"
  }, {
     "Id": 256,
     "Name": "Brave Bird",
-    "Speed": "Charge",
-    "Type": "Flying",
-    "Power": 90,
-    "DurationMs": 2000
+    "Speed": "Charge"
  }, {
     "Id": 257,
     "Name": "Sky Attack",
-    "Speed": "Charge",
-    "Type": "Flying",
-    "Power": 70,
-    "DurationMs": 2000
+    "Speed": "Charge"
  }, {
     "Id": 258,
     "Name": "Sand Tomb",
-    "Speed": "Charge",
-    "Type": "Ground",
-    "Power": 80,
-    "DurationMs": 4000
+    "Speed": "Charge"
  }, {
     "Id": 259,
     "Name": "Rock Blast",
-    "Speed": "Charge",
-    "Type": "Rock",
-    "Power": 50,
-    "DurationMs": 2100
+    "Speed": "Charge"
  }, {
     "Id": 260,
     "Name": "Infestation",
-    "Speed": "Fast",
-    "Type": "Bug",
-    "Power": 10,
-    "DurationMs": 1100
+    "Speed": "Fast"
  }, {
     "Id": 261,
     "Name": "Struggle Bug",
-    "Speed": "Fast",
-    "Type": "Bug",
-    "Power": 15,
-    "DurationMs": 1500
+    "Speed": "Fast"
  }, {
     "Id": 262,
     "Name": "Silver Wind",
-    "Speed": "Charge",
-    "Type": "Bug",
-    "Power": 70,
-    "DurationMs": 3700
+    "Speed": "Charge"
  }, {
     "Id": 263,
     "Name": "Astonish",
-    "Speed": "Fast",
-    "Type": "Ghost",
-    "Power": 8,
-    "DurationMs": 1100
+    "Speed": "Fast"
  }, {
     "Id": 264,
     "Name": "Hex",
-    "Speed": "Fast",
-    "Type": "Ghost",
-    "Power": 10,
-    "DurationMs": 1200
+    "Speed": "Fast"
  }, {
     "Id": 265,
     "Name": "Night Shade",
-    "Speed": "Charge",
-    "Type": "Ghost",
-    "Power": 60,
-    "DurationMs": 2600
+    "Speed": "Charge"
  }, {
     "Id": 266,
     "Name": "Iron Tail",
-    "Speed": "Fast",
-    "Type": "Steel",
-    "Power": 15,
-    "DurationMs": 1100
+    "Speed": "Fast"
  }, {
     "Id": 267,
     "Name": "Gyro Ball",
-    "Speed": "Charge",
-    "Type": "Steel",
-    "Power": 80,
-    "DurationMs": 3300
+    "Speed": "Charge"
  }, {
     "Id": 268,
     "Name": "Heavy Slam",
-    "Speed": "Charge",
-    "Type": "Steel",
-    "Power": 70,
-    "DurationMs": 2100
+    "Speed": "Charge"
  }, {
     "Id": 269,
     "Name": "Fire Spin",
-    "Speed": "Fast",
-    "Type": "Fire",
-    "Power": 14,
-    "DurationMs": 1100
+    "Speed": "Fast"
  }, {
     "Id": 270,
     "Name": "Overheat",
-    "Speed": "Charge",
-    "Type": "Fire",
-    "Power": 160,
-    "DurationMs": 4000
+    "Speed": "Charge"
  }, {
     "Id": 271,
     "Name": "Bullet Seed",
-    "Speed": "Fast",
-    "Type": "Grass",
-    "Power": 8,
-    "DurationMs": 1100
+    "Speed": "Fast"
  }, {
     "Id": 272,
     "Name": "Grass Knot",
-    "Speed": "Charge",
-    "Type": "Grass",
-    "Power": 90,
-    "DurationMs": 2600
+    "Speed": "Charge"
  }, {
     "Id": 273,
     "Name": "Energy Ball",
-    "Speed": "Charge",
-    "Type": "Grass",
-    "Power": 90,
-    "DurationMs": 3900
+    "Speed": "Charge"
  }, {
     "Id": 274,
     "Name": "Extrasensory",
-    "Speed": "Fast",
-    "Type": "Psychic",
-    "Power": 12,
-    "DurationMs": 1100
+    "Speed": "Fast"
  }, {
     "Id": 275,
     "Name": "Futuresight",
-    "Speed": "Charge",
-    "Type": "Psychic",
-    "Power": 120,
-    "DurationMs": 2700
+    "Speed": "Charge"
  }, {
     "Id": 276,
     "Name": "Mirror Coat",
-    "Speed": "Charge",
-    "Type": "Psychic",
-    "Power": 60,
-    "DurationMs": 2600
+    "Speed": "Charge"
  }, {
     "Id": 277,
     "Name": "Outrage",
-    "Speed": "Charge",
-    "Type": "Dragon",
-    "Power": 110,
-    "DurationMs": 3900
+    "Speed": "Charge"
  }, {
     "Id": 278,
     "Name": "Snarl",
-    "Speed": "Fast",
-    "Type": "Dark",
-    "Power": 12,
-    "DurationMs": 1100
+    "Speed": "Fast"
  }, {
     "Id": 279,
     "Name": "Crunch",
-    "Speed": "Charge",
-    "Type": "Dark",
-    "Power": 70,
-    "DurationMs": 3200
+    "Speed": "Charge"
  }, {
     "Id": 280,
     "Name": "Foul Play",
-    "Speed": "Charge",
-    "Type": "Dark",
-    "Power": 70,
-    "DurationMs": 2000
+    "Speed": "Charge"
  }, {
     "Id": 281,
     "Name": "Hidden Power",
-    "Speed": "Fast",
-    "Type": "Normal",
-    "Power": 15,
-    "DurationMs": 1500
+    "Speed": "Fast"
+ }, {
+    "Id": 282,
+    "Name": "Take Down",
+    "Speed": "Fast"
+ }, {
+    "Id": 283,
+    "Name": "Waterfall",
+    "Speed": "Fast"
+ }, {
+    "Id": 284,
+    "Name": "Surf",
+    "Speed": "Charge"
+ }, {
+    "Id": 285,
+    "Name": "Draco Meteor",
+    "Speed": "Charge"
+ }, {
+    "Id": 286,
+    "Name": "Doom Desire",
+    "Speed": "Charge"
+ }, {
+    "Id": 287,
+    "Name": "Yawn",
+    "Speed": "Fast"
+ }, {
+    "Id": 288,
+    "Name": "Psycho Boost",
+    "Speed": "Charge"
+ }, {
+    "Id": 289,
+    "Name": "Origin Pulse",
+    "Speed": "Charge"
+ }, {
+    "Id": 290,
+    "Name": "Precipice Blades",
+    "Speed": "Charge"
+ }, {
+    "Id": 291,
+    "Name": "Present",
+    "Speed": "Fast"
  }]

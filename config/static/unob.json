@@ -87,5 +87,55 @@
         "Id": 251,
         "Name": "Celebi",
         "Unobtainium": "Mythic"
+    },
+    {
+        "Id": 377,
+        "Name": "Regirock",
+        "Unobtainium": "Legendary"
+    },
+    {
+        "Id": 378,
+        "Name": "Regice",
+        "Unobtainium": "Legendary"
+    },
+    {
+        "Id": 379,
+        "Name": "Registeel",
+        "Unobtainium": "Legendary"
+    },
+    {
+        "Id": 380,
+        "Name": "Latias",
+        "Unobtainium": "Legendary"
+    },
+    {
+        "Id": 381,
+        "Name": "Latios",
+        "Unobtainium": "Legendary"
+    },
+    {
+        "Id": 382,
+        "Name": "Kyogre",
+        "Unobtainium": "Legendary"
+    },
+    {
+        "Id": 383,
+        "Name": "Groudon",
+        "Unobtainium": "Legendary"
+    },
+    {
+        "Id": 384,
+        "Name": "Rayquaza",
+        "Unobtainium": "Legendary"
+    },
+    {
+        "Id": 385,
+        "Name": "Jirachi",
+        "Unobtainium": "Mythic"
+    },
+    {
+        "Id": 386,
+        "Name": "Deoxys",
+        "Unobtainium": "Mythic"
     }
 ]

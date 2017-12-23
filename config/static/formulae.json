@@ -41,12 +41,12 @@
     {
         "name" : "stardustcost",
         "column": 18,
-        "formula": "=INDEX(cumuldust,MATCH(currentlevel+1.5,levels,0),0) - INDEX(cumuldust,MATCH($H2,levels,0),0)"
+        "formula": "=INDEX(cumuldust,MATCH(currentlevel+2,levels,0),0) - INDEX(cumuldust,MATCH($H2,levels,0),0)"
     },
     {
         "name" : "candycost",
         "column": 19,
-        "formula": "=CONCAT(INDEX(cumulcandy,MATCH(currentlevel+1.5,levels,0),0) - INDEX(cumulcandy,MATCH($H2,levels,0),0), IF(ISBLANK($O2),\"\",\"*\"))"
+        "formula": "=CONCAT(INDEX(cumulcandy,MATCH(currentlevel+2,levels,0),0) - INDEX(cumulcandy,MATCH($H2,levels,0),0), IF(ISBLANK($O2),\"\",\"*\"))"
     },
     {
         "name" : "maxcp40",

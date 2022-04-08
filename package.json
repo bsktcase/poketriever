@@ -33,7 +33,7 @@
     "googleapis": "^39.1.0",
     "ignore": "^3.3.7",
     "inquirer": "^3.3.0",
-    "moment": "^2.20.1",
+    "moment": "^2.29.2",
     "pogobuf-signature": "^2.3.11",
     "pogobuf-vnext": "^2.5.7",
     "readable-stream": "^2.3.3",
